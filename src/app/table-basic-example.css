@@ -1,0 +1,11 @@
+table {
+  width: 100%;
+}
+
+.mat-row:hover {
+  background: rgb(209, 204, 204);
+}
+
+.highlight {
+  background: #42a948; /* green */
+}
